@@ -1,0 +1,10 @@
+11:34:09 **** Incremental Build of configuration Debug for project Tx2 ****
+make -j4 all 
+arm-none-eabi-size   Tx2.elf 
+   text	   data	    bss	    dec	    hex	filename
+  15228	     20	   1716	  16964	   4244	Tx2.elf
+Finished building: default.size.stdout
+ 
+
+11:34:10 Build Finished. 0 errors, 0 warnings. (took 996ms)
+
